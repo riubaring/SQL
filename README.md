@@ -2,4 +2,5 @@
 A place for all my SQL statements
 
 ## Table of Content
-* Employee Enrollments By Class ID - make sure change the ```A.course_session_id``` appropriately.
+* Employee Enrollments By Class ID - make sure to change the ```A.course_session_id``` appropriately.
+* Employee Entries Count - total count per year
